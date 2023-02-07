@@ -1,0 +1,5 @@
+n <- c("Vignesh","Sharvesh","Umesh")
+age <- c(19,20,11)
+marks <- c(92,87,99)
+df <- data.frame(n,age,marks)
+mode(df $ age)
